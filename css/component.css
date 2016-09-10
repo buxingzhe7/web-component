@@ -7,3 +7,19 @@ version	:	1.0
      qq	:	1432892220
 website	:	http://www.luojia.org/
 ------------------------------------------------------------ */
+.A {
+	width: 120px;
+	height: 70px;
+	border: 1px solid #ccc;
+}
+
+.window_boundingBox {
+	position: fixed;
+	top: 100px;
+	left: 50%;
+	border: 1px solid #000;
+	width: 500px;
+	height: 300px;
+	margin-left: -250px;
+	box-shadow: 0 0 12px rgba(0,0,0,0.5);
+}
