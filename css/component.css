@@ -5,8 +5,21 @@ version	:	1.0
  author	:	wangwei
   email	:	1432892220@qq.com
      qq	:	1432892220
+language:   H5
 website	:	http://www.luojia.org/
 ------------------------------------------------------------ */
+* {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none;
+    outline: none;
+}
+body {
+    font-family: "microsoft yahei";
+    -webkit-overflow-scrolling: touch;
+}
+
 .A {
 	width: 120px;
 	height: 70px;
